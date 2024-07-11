@@ -1,0 +1,45 @@
+MODEL        1
+CRYST1    0.000    0.000    0.000  90.00  90.00  90.00 P 1           1
+ATOM      1   BB ILE P   1     -12.039   0.332   7.734  1.00  0.00      PROA
+ATOM      2  SC1 ILE P   1     -13.090  -1.888   8.169  1.00  0.00      PROA
+ATOM      3   BB LEU P   2     -10.215   2.424   6.029  1.00  0.00      PROA
+ATOM      4  SC1 LEU P   2     -12.540   4.129   4.617  1.00  0.00      PROA
+ATOM      5   BB ALA P   3      -7.817   0.333   4.907  1.00  0.00      PROA
+ATOM      6   BB TRP P   4      -5.257  -1.552   2.375  1.00 22.00      PROA
+ATOM      7  SC1 TRP P   4      -7.042  -3.796   2.892  1.00 22.00      PROA
+ATOM      8  SC2 TRP P   4      -7.866  -5.230   4.186  1.00 22.00      PROA
+ATOM      9  SC3 TRP P   4      -4.940  -5.851   2.298  1.00 22.00      PROA
+ATOM     10  SC4 TRP P   4      -5.735  -7.445   3.642  1.00 22.00      PROA
+ATOM     11   BB LYS P   5      -4.046  -0.388  -0.366  1.00  2.00      PROA
+ATOM     12  SC1 LYS P   5      -5.365  -0.878  -2.827  1.00  2.00      PROA
+ATOM     13  SC2 LYS P   5      -4.424  -2.911  -4.888  1.00  2.00      PROA
+ATOM     14   BB TRP P   6      -1.810   1.077   1.308  1.00  2.00      PROA
+ATOM     15  SC1 TRP P   6      -2.605   3.742   1.873  1.00  2.00      PROA
+ATOM     16  SC2 TRP P   6      -3.249   5.706   1.490  1.00  2.00      PROA
+ATOM     17  SC3 TRP P   6       0.097   4.682   0.982  1.00  2.00      PROA
+ATOM     18  SC4 TRP P   6      -0.481   6.792   0.543  1.00  2.00      PROA
+ATOM     19   BB ALA P   7      -0.074  -1.119   2.896  1.00  2.00      PROA
+ATOM     20   BB TRP P   8       1.448  -1.784   0.228  1.00  2.00      PROA
+ATOM     21  SC1 TRP P   8       0.552  -2.589  -2.300  1.00  2.00      PROA
+ATOM     22  SC2 TRP P   8       1.354  -1.945  -4.138  1.00  2.00      PROA
+ATOM     23  SC3 TRP P   8       2.010  -5.147  -2.816  1.00  2.00      PROA
+ATOM     24  SC4 TRP P   8       2.892  -4.579  -4.782  1.00  2.00      PROA
+ATOM     25   BB TRP P   9       3.548   0.341  -0.706  1.00  2.00      PROA
+ATOM     26  SC1 TRP P   9       3.587   2.520  -2.103  1.00  2.00      PROA
+ATOM     27  SC2 TRP P   9       4.869   3.230  -3.608  1.00  2.00      PROA
+ATOM     28  SC3 TRP P   9       5.196   4.164  -0.222  1.00  2.00      PROA
+ATOM     29  SC4 TRP P   9       6.626   4.991  -1.721  1.00  2.00      PROA
+ATOM     30   BB ALA P  10       4.465   0.207   2.390  1.00  2.00      PROA
+ATOM     31   BB TRP P  11       6.339  -2.505   1.625  1.00  2.00      PROA
+ATOM     32  SC1 TRP P  11       5.313  -4.593   0.589  1.00  2.00      PROA
+ATOM     33  SC2 TRP P  11       5.020  -4.777  -1.486  1.00  2.00      PROA
+ATOM     34  SC3 TRP P  11       7.769  -6.251   0.167  1.00  2.00      PROA
+ATOM     35  SC4 TRP P  11       7.552  -6.512  -2.037  1.00  2.00      PROA
+ATOM     36   BB ARG P  12       8.254  -1.868  -0.665  1.00  2.00      PROA
+ATOM     37  SC1 ARG P  12       6.063  -1.748  -3.184  1.00  2.00      PROA
+ATOM     38  SC2 ARG P  12       6.366   0.579  -4.770  1.00  2.00      PROA
+ATOM     39   BB ARG P  13      10.111  -0.298   1.010  1.00  0.00      PROA
+ATOM     40  SC1 ARG P  13       9.584   2.435   2.206  1.00  0.00      PROA
+ATOM     41  SC2 ARG P  13      12.088   4.037   1.199  1.00  0.00      PROA
+TER
+ENDMDL
